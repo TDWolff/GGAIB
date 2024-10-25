@@ -1,4 +1,6 @@
 flask
 flask_cors
 python-dotenv
+google
 flask_restful
+google-generativeai
