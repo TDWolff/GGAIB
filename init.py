@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Set up cors for allowing to all requests
 cors = CORS(app, supports_credentials=True, origins=["*"])
-port = 8763
+port = 8736
 selftitle = "Flask App"
 
 
